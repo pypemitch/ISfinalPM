@@ -1,0 +1,31 @@
+/* use of font and font size */
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    background-color: rgb(163, 179, 194);}
+
+/* center photo of me dancing */
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;}
+
+    /* nice border for title */
+.border {border: 7px;
+    border-style: ridge;
+    width: 60%;
+    margin: auto;
+    padding: 2px;}
+
+.unbold {text-decoration: none;}
+
+/* font color for title and first sub heading */
+.purple {color: rgb(70, 59, 80);}
+
+/* font colors for different dance favorites */
+.ballet {color: rgb(151, 72, 112);}
+.contemporary {color: rgb(116, 108, 1);}
+.ballroom {color: rgb(40, 40, 117);}
+.hiphop {color: rgb(128, 20, 20);}
+.jazz {color: rgb(71, 34, 105);}
